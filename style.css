@@ -1,0 +1,51 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.flexible-container{
+    display: flex;
+    margin-top:  100px;
+}
+.food-network{
+    margin-left: 6%;
+}
+h1{
+    font-size: 40px;
+}
+.orange-color{
+    color: orange;
+}
+.color{
+    color: rgb(184, 180, 180);
+}
+.half-width{
+    width: 40%;
+}
+.half-width img{
+    width: 40%;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    margin: 5%;
+    padding: 10px 20px;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 10px;
+}
+.recipiesion-item{
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 10px;
+    box-shadow: 10px 10px 40px green;
+    radius: 2px;
+}
+#image-size{
+    width: 200px;
+    height: auto;
+}
+.center{
+    text-align: center;
+    margin: 1%;
+    
+}
